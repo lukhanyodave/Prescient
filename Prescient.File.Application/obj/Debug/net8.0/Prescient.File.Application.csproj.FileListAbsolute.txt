@@ -1,0 +1,16 @@
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Application\bin\Debug\net8.0\Prescient.File.Application.deps.json
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Application\bin\Debug\net8.0\Prescient.File.Application.dll
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Application\bin\Debug\net8.0\Prescient.File.Application.pdb
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Application\bin\Debug\net8.0\Prescient.File.Domain.dll
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Application\bin\Debug\net8.0\Prescient.File.Domain.pdb
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Application\obj\Debug\net8.0\Prescient.File.Application.csproj.AssemblyReference.cache
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Application\obj\Debug\net8.0\Prescient.File.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Application\obj\Debug\net8.0\Prescient.File.Application.AssemblyInfoInputs.cache
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Application\obj\Debug\net8.0\Prescient.File.Application.AssemblyInfo.cs
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Application\obj\Debug\net8.0\Prescient.File.Application.csproj.CoreCompileInputs.cache
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Application\obj\Debug\net8.0\Prescient.File.Application.sourcelink.json
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Application\obj\Debug\net8.0\Prescien.6FFBDEF8.Up2Date
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Application\obj\Debug\net8.0\Prescient.File.Application.dll
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Application\obj\Debug\net8.0\refint\Prescient.File.Application.dll
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Application\obj\Debug\net8.0\Prescient.File.Application.pdb
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Application\obj\Debug\net8.0\ref\Prescient.File.Application.dll
