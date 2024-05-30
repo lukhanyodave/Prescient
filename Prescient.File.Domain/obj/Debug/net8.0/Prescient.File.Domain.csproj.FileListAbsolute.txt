@@ -1,0 +1,12 @@
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Domain\bin\Debug\net8.0\Prescient.File.Domain.deps.json
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Domain\bin\Debug\net8.0\Prescient.File.Domain.dll
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Domain\bin\Debug\net8.0\Prescient.File.Domain.pdb
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Domain\obj\Debug\net8.0\Prescient.File.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Domain\obj\Debug\net8.0\Prescient.File.Domain.AssemblyInfoInputs.cache
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Domain\obj\Debug\net8.0\Prescient.File.Domain.AssemblyInfo.cs
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Domain\obj\Debug\net8.0\Prescient.File.Domain.csproj.CoreCompileInputs.cache
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Domain\obj\Debug\net8.0\Prescient.File.Domain.sourcelink.json
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Domain\obj\Debug\net8.0\Prescient.File.Domain.dll
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Domain\obj\Debug\net8.0\refint\Prescient.File.Domain.dll
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Domain\obj\Debug\net8.0\Prescient.File.Domain.pdb
+C:\New Repo\sample\Prescient.File.Solution\Prescient.File.Domain\obj\Debug\net8.0\ref\Prescient.File.Domain.dll

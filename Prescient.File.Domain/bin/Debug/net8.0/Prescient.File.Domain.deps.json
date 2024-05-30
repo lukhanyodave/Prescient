@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Prescient.File.Domain/1.0.0": {
+        "runtime": {
+          "Prescient.File.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prescient.File.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
